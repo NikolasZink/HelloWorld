@@ -2,3 +2,19 @@ h1 {
     color: cadetblue;
     font-size: 200px;
 }
+
+header ul {
+    text-align: center;
+}
+
+header li {
+    display: inline;
+    font-size: 40px;
+    margin: 1.5%;
+    
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+}
